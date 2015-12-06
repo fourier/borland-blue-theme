@@ -1,3 +1,36 @@
+;;; borland-blue-theme.el --- Blue/yellow theme based on old DOS Borland/Turbo C IDE
+
+;; Copyright (C) 2015 Alexey Veretennikov
+
+;; Author: Alexey Veretennikov <alexey dot veretennikov at gmail dot com>
+;; Keywords: themes
+;; URL: http://github.com/fourier/borland-blue-theme
+;; Version: 0.1
+;; Package-Requires: ((emacs "24.1"))
+
+;; This program is free software; you can redistribute it and/or modify
+;; it under the terms of the GNU General Public License as published by
+;; the Free Software Foundation, either version 3 of the License, or
+;; (at your option) any later version.
+
+;; This program is distributed in the hope that it will be useful,
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+;; GNU General Public License for more details.
+
+;; You should have received a copy of the GNU General Public License
+;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+;;; Commentary:
+
+;; To use it, put the following in your Emacs configuration file:
+;;
+;;   (load-theme 'borland-blue t)
+;;
+;; Requirements: Emacs 24.
+
+;;; Code:
+
 (deftheme borland-blue
   "This theme resembles the Borland/Turbe C IDE with the general idea as golden letters on a blue background.")
 
