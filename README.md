@@ -3,7 +3,7 @@ This theme resembles the Borland/Turbe C IDE with the general idea as golden let
 
 ## Screenshots
 
-![borland-blue](https://github.com/fourier/borland-blue/raw/master/screenshot.png "Emacs with borland-blue theme")
+![borland-blue](https://raw.githubusercontent.com/fourier/borland-blue-theme/master/screenshot.png "Emacs with borland-blue theme")
 
 
 ## Installation
