@@ -162,3 +162,4 @@
                (file-name-as-directory (file-name-directory load-file-name))))
 
 (provide-theme 'borland-blue)
+;;; borland-blue-theme.el ends here
