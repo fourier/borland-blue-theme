@@ -36,7 +36,17 @@
 
 (custom-theme-set-faces
  'borland-blue
- '(default ((t (:family "default" :foundry "default" :width normal :height 1 :weight normal :slant normal :underline nil :overline nil :strike-through nil :box nil :inverse-video nil :foreground "gold" :background "MidnightBlue" :stipple nil :inherit nil))))
+ '(default ((t (:family "default"
+                        :foundry "default"
+                        :underline nil
+                        :overline nil
+                        :strike-through nil
+                        :box nil
+                        :inverse-video nil
+                        :foreground "gold"
+                        :background "MidnightBlue"
+                        :stipple nil
+                        :inherit nil))))
  '(cursor ((t (:background "green"))))
  '(region ((t (:foreground "black" :background "LightGrey"))))
  ;; vertical line when spilt window with C-x 3 on text terminals
