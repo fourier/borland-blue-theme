@@ -1,20 +1,11 @@
-# borland-blue-theme
-This theme resembles the Borland/Turbe C IDE with the general idea as golden letters on a blue background.
+# Give Up GitHub
 
-## Screenshots
+This project has given up GitHub.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
 
-![borland-blue](https://raw.githubusercontent.com/fourier/borland-blue-theme/master/screenshot.png "Emacs with borland-blue theme")
+You can now find this project at [https://codeberg.org/fourier/borland-blue-theme](https://codeberg.org/fourier/borland-blue-theme) instead.
 
+Any use of this project's code by GitHub Copilot, past or present, is done without our permission.  We do not consent to GitHub's use of this project's code in Copilot.
 
-## Installation
-Easiest way to install using [MELPA](http://melpa.milkbox.net/#/getting-started). If you have MELPA installed, run
-```
-    M-x package-install RET borland-blue-theme RET
-```
+Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
 
-Alternatively put the this directory to the `custom-theme-load` and add the following to your init file:
-
-```
-    (push (substitute-in-file-name "~/.emacs.d/borland-blue-theme/") custom-theme-load-path)
-    (load-theme 'borland-blue t)
-```
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
